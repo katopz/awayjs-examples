@@ -1,7 +1,7 @@
 away3d-examples-ts
 ==================
 Prerequisite
-* nodejs : https://nodejs.org/
+* Node.js® : https://nodejs.org/
 * TypeScript : http://www.typescriptlang.org/
 
 Setup TypeScript
